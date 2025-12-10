@@ -133,19 +133,19 @@ El sistema cumple con **todos los requisitos del Primer Parcial**.
 
 ---
 
-#  Link del video
+# 📘 link del video
 
-
+ 
 
 ---
 
-#  Diagrama UML 
+# 📊 Diagrama UML
           
 ![WhatsApp Image 2025-12-09 at 21 02 22](https://github.com/user-attachments/assets/4d2f7142-34c4-43a1-88b2-0cced2fa96d1)
 
 ---
 
-#  Capturas de la ejecución
+# 📘 Capturas de la ejecución
 
 ![WhatsApp Image 2025-12-09 at 20 23 32](https://github.com/user-attachments/assets/ba70feb3-0713-480e-8e58-39afa36bd6ab)
 ![WhatsApp Image 2025-12-09 at 20 24 11](https://github.com/user-attachments/assets/be06fb8b-218d-4756-91e9-f818394e98f5)
