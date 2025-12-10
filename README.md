@@ -59,6 +59,7 @@ Reglas:
 Sobrescribe:
 - `calcular_costo()` (polimorfismo)
 
+
 ### `PermisoFuncionamiento`  
 Hereda de `Tramite`.  
 Atributos extra:
@@ -80,6 +81,7 @@ Sobrescribe:
 Representa a un ciudadano con:
 - nombre
 - cédula  
+
 
 ### `GestorTramites`
 Contiene métodos **polimórficos obligatorios**:
