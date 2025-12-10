@@ -123,6 +123,13 @@ Este proyecto demuestra correctamente:
 
 El sistema cumple con **todos los requisitos del Primer Parcial**.
 
+---
+
+#  Link del video
+
+
+
+---
 
 #  Diagrama UML 
           
@@ -131,6 +138,7 @@ El sistema cumple con **todos los requisitos del Primer Parcial**.
 ---
 
 #  Capturas de la ejecución
+
 ![WhatsApp Image 2025-12-09 at 20 23 32](https://github.com/user-attachments/assets/ba70feb3-0713-480e-8e58-39afa36bd6ab)
 ![WhatsApp Image 2025-12-09 at 20 24 11](https://github.com/user-attachments/assets/be06fb8b-218d-4756-91e9-f818394e98f5)
 ![WhatsApp Image 2025-12-09 at 20 24 26](https://github.com/user-attachments/assets/d034a7f2-a712-40b0-9f17-e4b5837e357e)
@@ -138,9 +146,6 @@ El sistema cumple con **todos los requisitos del Primer Parcial**.
 ![WhatsApp Image 2025-12-09 at 20 25 07](https://github.com/user-attachments/assets/5bb7e96d-ede3-4768-a71f-29b1626ce69f)
 
 ---
-
-#  Link del video
-
 
 
 
