@@ -114,6 +114,25 @@ El usuario puede registrar ciudadanos, generar distintos trámites y ver reporte
 1. Clonar o descargar el repositorio.  
 2. Abrir la carpeta en PyCharm / VSCode.  
 3. Ejecutar:
+4. Usar el menú interactivo.
+
+---
+
+# ✔ Conclusión
+
+Este proyecto demuestra correctamente:
+
+- Encapsulamiento  
+- Herencia  
+- Polimorfismo  
+- Uso de clases bien estructuradas  
+- Menú interactivo completo  
+- Validaciones  
+- Buenas prácticas PEP8  
+
+El sistema cumple con **todos los requisitos del Primer Parcial**.
+
+
 
 ---
 
@@ -133,7 +152,7 @@ El sistema cumple con **todos los requisitos del Primer Parcial**.
 
 ---
 
-# 📘 link del video
+# 🔗🎥 Link del video
 
  
 
@@ -145,7 +164,7 @@ El sistema cumple con **todos los requisitos del Primer Parcial**.
 
 ---
 
-# 📘 Capturas de la ejecución
+# 📸 Capturas de la ejecución
 
 ![WhatsApp Image 2025-12-09 at 20 23 32](https://github.com/user-attachments/assets/ba70feb3-0713-480e-8e58-39afa36bd6ab)
 ![WhatsApp Image 2025-12-09 at 20 24 11](https://github.com/user-attachments/assets/be06fb8b-218d-4756-91e9-f818394e98f5)
