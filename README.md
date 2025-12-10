@@ -109,6 +109,14 @@ El usuario puede registrar ciudadanos, generar distintos trámites y ver reporte
 
 ---
 
+# 🟢 Instrucciones para Ejecutar
+
+1. Clonar o descargar el repositorio.  
+2. Abrir la carpeta en PyCharm / VSCode.  
+3. Ejecutar:
+
+---
+
 # ✔ Conclusión
 
 Este proyecto demuestra correctamente:
