@@ -59,8 +59,6 @@ Reglas:
 Sobrescribe:
 - `calcular_costo()` (polimorfismo)
 
----
-
 ### `PermisoFuncionamiento`  
 Hereda de `Tramite`.  
 Atributos extra:
@@ -115,24 +113,6 @@ El usuario puede registrar ciudadanos, generar distintos trámites y ver reporte
 2. Abrir la carpeta en PyCharm / VSCode.  
 3. Ejecutar:
 4. Usar el menú interactivo.
-
----
-
-# ✔ Conclusión
-
-Este proyecto demuestra correctamente:
-
-- Encapsulamiento  
-- Herencia  
-- Polimorfismo  
-- Uso de clases bien estructuradas  
-- Menú interactivo completo  
-- Validaciones  
-- Buenas prácticas PEP8  
-
-El sistema cumple con **todos los requisitos del Primer Parcial**.
-
-
 
 ---
 
