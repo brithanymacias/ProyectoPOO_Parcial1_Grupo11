@@ -148,6 +148,7 @@ El sistema cumple con **todos los requisitos del Primer Parcial**.
 
 # 📸 Capturas de la ejecución
 
+[Capturas POO - Grupo 11.pdf](https://github.com/user-attachments/files/24084610/Capturas.POO.-.Grupo.11.pdf)
 
 ---
 
