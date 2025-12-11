@@ -136,7 +136,7 @@ El sistema cumple con **todos los requisitos del Primer Parcial**.
 
 # 🔗🎥 Link del video
 
- 
+https://drive.google.com/file/d/1vaXwRA9qF4wJEwNTK-bnRa2UEoPHBKFT/view?usp=sharing
 
 ---
 
@@ -149,6 +149,12 @@ El sistema cumple con **todos los requisitos del Primer Parcial**.
 # 📸 Capturas de la ejecución
 
 [Capturas POO - Grupo 11.pdf](https://github.com/user-attachments/files/24084610/Capturas.POO.-.Grupo.11.pdf)
+![WhatsApp Image 2025-12-09 at 20 23 32](https://github.com/user-attachments/assets/ee4b9f90-5f87-4871-a7b2-a92b379098b0)
+![WhatsApp Image 2025-12-09 at 20 24 11](https://github.com/user-attachments/assets/2d15f34d-e043-4b48-a01d-a863f6d98595)
+![WhatsApp Image 2025-12-09 at 20 24 26](https://github.com/user-attachments/assets/0f560eaa-a122-4c62-a008-cc6d67cd0dc3)
+![WhatsApp Image 2025-12-09 at 20 24 46](https://github.com/user-attachments/assets/2b7622c8-cf1c-4af8-ac44-700ec4e3fcd9)
+![WhatsApp Image 2025-12-09 at 20 25 07](https://github.com/user-attachments/assets/9aab6787-b51e-4eaa-ab20-a5a74963fa7b)
+
 
 ---
 
